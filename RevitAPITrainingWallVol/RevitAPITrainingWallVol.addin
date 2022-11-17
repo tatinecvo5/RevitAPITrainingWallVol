@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingWallVol.dll"</Assembly>
+		<AddInId>065CB7C4-D10F-4EDF-91E2-D5DEF0A30620</AddInId>
+		<FullClassName>RevitAPITrainingWallVol.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет объема выбранных стен</Text>
+	</AddIn>
+</RevitAddIns>
